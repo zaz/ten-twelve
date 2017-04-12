@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## 10-12
 
-You can use the [editor on GitHub](https://github.com/zaz/ten-twelve/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A work in progess to find ten to twelve problems in America that everyone can agree should be fixed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Test.
 
-```markdown
-Syntax highlighted code block
+### 2
 
-# Header 1
-## Header 2
-### Header 3
+Another test.
 
-- Bulleted
-- List
+### 3
 
-1. Numbered
-2. List
+### 4
 
-**Bold** and _Italic_ and `Code` text
+### 5
 
-[Link](url) and ![Image](src)
-```
+### 6
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 7
 
-### Jekyll Themes
+### 8
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zaz/ten-twelve/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 9
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 10
